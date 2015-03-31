@@ -303,20 +303,14 @@ td.song-number {
 
 .fa-backward:hover {
   opacity: 0.5;
-  transition: opacity 0.8s ease-out;
-  -moz-transition: opacity 0.8s ease-out;
-  -webkit-transition: opacity 0.8s ease-out;
-  -o-transition: opacity 0.8s ease-out; }
+  transition: opacity 0.8s ease-out; }
 
 .fa-forward {
   opacity: 1; }
 
 .fa-forward:hover {
   opacity: 0.5;
-  transition: opacity 0.8s ease-out;
-  -moz-transition: opacity 0.8s ease-out;
-  -webkit-transition: opacity 0.8s ease-out;
-  -o-transition: opacity 0.8s ease-out; }
+  transition: opacity 0.8s ease-out; }
 
 
 /*# sourceMappingURL=app.css.map*/
