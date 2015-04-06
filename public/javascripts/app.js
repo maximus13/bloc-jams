@@ -256,13 +256,11 @@ require.register("scripts/album", function(exports, require, module) {
 
  };
 
+  $(document).ready(function() {
+    changeAlbumView(albumMarconi);
+    setupSeekBars();
 
-    $(document).ready(function() {
-      changeAlbumView(albumMarconi);
-      setupSeekBars();
-
-    });
-  }
+  });
 });
 
 ;require.register("scripts/app", function(exports, require, module) {
